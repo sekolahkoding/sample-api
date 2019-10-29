@@ -1,6 +1,7 @@
   
 {
-[{
+  "users" : [
+ {
   "id": 1,
   "username": "cflaxon0",
   "avatar": "https://robohash.org/providentealaboriosam.jpg?size=50x50&set=set1"
@@ -120,5 +121,6 @@
   "id": 30,
   "username": "kmuckersiet",
   "avatar": "https://robohash.org/dignissimossaepeet.jpg?size=50x50&set=set1"
-}]
+ }
+  ]
 }
